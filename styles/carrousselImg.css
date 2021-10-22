@@ -5,12 +5,16 @@
     list-style-type: none;
 }
 
+body {
+    background: url(https://img.freepik.com/free-photo/3d-render-display-background-with-grunge-smoky-room-interior-with-spotlights_1048-14520.jpg?size=626&ext=jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
 #images {
     width: max-content;
     height: 300px;
     border: 1px #aaa solid;
     text-align: center;
-    display: table-cell;
     vertical-align: middle;
 }
 
