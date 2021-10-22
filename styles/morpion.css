@@ -1,3 +1,13 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #333232;
+    margin: 0;
+    padding: 0;
+    background: url(https://st3.depositphotos.com/13324256/17034/i/600/depositphotos_170344426-stock-photo-wooden-background.jpg) no-repeat center fixed;
+    background-size: cover;
+    color: rgb(240, 34, 34);
+}
+
 table,
 td {
     border: 1px solid #333;
