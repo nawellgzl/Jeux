@@ -1,0 +1,70 @@
+body {
+    background: url("https://farm5.staticflickr.com/4398/36359724660_5ebe7672d6_h.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+
+.calculatrice {
+    background-color: aliceblue;
+    text-align: center;
+    height: 400px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+#content {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+a {
+    color: aliceblue !important;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.title {
+    font-size: 25px;
+    font-style: italic;
+    font-family: sans-serif;
+    color: #096177;
+}
+
+#case {
+    height: 37px;
+    width: 200px;
+    border: 2px solid #096177;
+    border-radius: 10px;
+}
+
+.number {
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    color: white;
+    border: 2px solid #096177;
+    border-radius: 10px;
+    background-color: #259bca;
+}
+
+.number:hover {
+    background-color: #096177;
+}
+
+.operator {
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    color: white;
+    border: 2px solid #096177;
+    border-radius: 10px;
+    background-color: #42bddb;
+}
+
+.operator:hover {
+    background-color: #096177;
+}
