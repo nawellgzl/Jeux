@@ -5,19 +5,25 @@
     list-style-type: none;
 }
 
+#images {
+    width: max-content;
+    height: 300px;
+    border: 1px #aaa solid;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
 img {
     display: flex;
     justify-content: center;
     height: 250px;
+    width: 300px;
 }
 
 .twoimg {
     display: flex;
     justify-content: center;
-}
-
-#images {
-    width: 1200px;
 }
 
 a {
