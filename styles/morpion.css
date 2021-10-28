@@ -5,7 +5,13 @@ body {
     padding: 0;
     background: url(https://st3.depositphotos.com/13324256/17034/i/600/depositphotos_170344426-stock-photo-wooden-background.jpg) no-repeat center fixed;
     background-size: cover;
-    color: rgb(240, 34, 34);
+    color: rgb(228, 224, 224);
+}
+
+#title {
+    text-align: center;
+    height: 100px;
+    margin-top: 50px;
 }
 
 table,
@@ -97,6 +103,7 @@ tfoot {
 
 footer {
     margin-top: 15px;
+    text-align: center;
 }
 
 .button {

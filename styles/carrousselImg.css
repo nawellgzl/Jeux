@@ -10,7 +10,22 @@ body {
     background-size: cover;
 }
 
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(230, 230, 230);
+}
+
+#title {
+    background-color: rgb(51, 51, 51);
+    height: 100px;
+}
+
 #images {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
     width: max-content;
     height: 300px;
     border: 1px #aaa solid;
